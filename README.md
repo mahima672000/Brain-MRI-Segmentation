@@ -9,20 +9,4 @@
 
 [4]https://arxiv.org/pdf/1810.10853.pdf
 
-[5] https://arxiv.org/pdf/1505.04597.pdf
-
-[6] https://arxiv.org/pdf/1705.03820.pdf
-
-[7] https://arxiv.org/pdf/1802.02611.pdf
-
-[8] https://insightsimaging.springeropen.com/articles/10.1186/s13244-020-00869-4
-
-[9] https://www.hindawi.com/journals/cmmm/2020/6789306/
-
-[10] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6148810/
-
-[11] https://www.frontiersin.org/articles/10.3389/fnins.2020.00207/full
-
-[12] https://link.springer.com/article/10.1007/s10278-017-9983-4
-
-[13] https://link.springer.com/chapter/10.1007/978-3-030-11726-9_4
+[5] https://link.springer.com/chapter/10.1007/978-3-030-11726-9_4
