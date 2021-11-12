@@ -24,6 +24,15 @@ The integer values in this array indicate the "label" for each voxel in the corr
 3: Enhancing tumor
 Edema ,Non-enhancing tumour , Enhancing tumour are constituents of Glioma(Brain Tumour).
 
+# Methodology
+[1] Exploring and Preprocessing of Data
+
+[2] Making CNN(U-Net) Model
+
+[3] Metrics
+
+# Implementation and Results
+
 
 # References
 [1] https://github.com/wiqaaas/youtube/tree/master/Deep_Learning_Using_Tensorflow/Image_Segmentation_using_U-Net
