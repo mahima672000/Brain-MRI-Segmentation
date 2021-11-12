@@ -1,6 +1,30 @@
 # Brain-MRI-Segmentation
+# Problem Statement
+ Segmentation of Brain MRI images using Deep Learning Techniques.
+ 
+
+
+
 # Dataset
   http://braintumorsegmentation.org/
+  
+  4D array of MR images in the shape of (240, 240, 155, 4).
+The first 3 dimensions are the X, Y, and Z values for each point in the 3D volume, which is commonly called a voxel.
+The 4th dimension is the values for 4 different sequences
+0: FLAIR: "Fluid Attenuated Inversion Recovery" (FLAIR)
+1: T1
+2: T1c
+3: T2
+
+A 3D array with the shape of (240, 240, 155).
+The integer values in this array indicate the "label" for each voxel in the corresponding image files:
+0: Background
+1: Edema 
+2: Non-enhancing tumor
+3: Enhancing tumor
+Edema ,Non-enhancing tumour , Enhancing tumour are constituents of Glioma(Brain Tumour).
+
+
 # References
 [1] https://github.com/wiqaaas/youtube/tree/master/Deep_Learning_Using_Tensorflow/Image_Segmentation_using_U-Net
 
